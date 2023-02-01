@@ -1,0 +1,8 @@
+print("What is your name? ")
+name = input()
+print("What is your age")
+age = input()
+print(f"{name} I see you are {age} years old.")
+print("Can I have your number? ")
+answer = input()
+print(f"I will be sure to call you at {answer}.")
